@@ -62,6 +62,7 @@ public class LocalMusicFragment extends BaseFragment implements LocalMusicAdapte
             adapter.getData(musicData);
         }
         adapter.notifyDataSetChanged();
+        Log.e(TAG, "initData: " );
 
         adapter.setOnItemClickListener(new LocalMusicAdapter.OnItemClickListener() {
             @Override
