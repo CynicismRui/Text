@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">波尼Music</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_setting">功能设置</string>
+    <string name="menu_night">夜间模式</string>
+    <string name="menu_timer">定时停止播放</string>
+    <string name="menu_exit">退出应用</string>
+    <string name="menu_about">关于波尼音乐</string>
+
+    <string name="method_billList"></string>
+    <string name="no_local_music">暂无本地音乐</string>
+</resources>
